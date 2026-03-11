@@ -1,0 +1,14 @@
+instaloader
+emoji
+textblob
+pandas
+matplotlib
+wordcloud
+transformers
+torch
+torchvision
+vaderSentiment
+streamlit
+plotly
+scipy
+nltk
