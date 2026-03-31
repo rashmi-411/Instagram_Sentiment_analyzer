@@ -26,8 +26,8 @@ except Exception as _err:  # pragma: no cover
     _transformers_available = False
 
 
-username = "S._rashmi_"
-password="Chotan@2004"
+username = ""
+password=""
 url = "https://www.instagram.com/p/DCrpHvPMd2x/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
 scrapFilepath = ""
 
